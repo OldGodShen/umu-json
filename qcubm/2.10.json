@@ -1,0 +1,66 @@
+[
+    {
+        "type": "radio",
+        "question_id": 56914249,
+        "answer_ids": [
+            200052585
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 56914250,
+        "answer_ids": [
+            200052586
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 56914251,
+        "answer_ids": [
+            200052592
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "input",
+        "question_id": 56914252,
+        "answer_ids": [],
+        "content": "无输入",
+        "level": 2
+    },
+    {
+        "type": "input",
+        "question_id": 56914253,
+        "answer_ids": [],
+        "content": "h=h*2",
+        "level": 2
+    },
+    {
+        "type": "input",
+        "question_id": 56914254,
+        "answer_ids": [],
+        "content": "对折的次数n",
+        "level": 2
+    },
+    {
+        "type": "textarea",
+        "question_id": 56914255,
+        "answer_ids": [],
+        "content": "①n = 0\n②while h < 8848.86\n③h = h*2",
+        "pic_url": [],
+        "level": 2
+    },
+    {
+        "type": "textarea",
+        "question_id": 56914256,
+        "answer_ids": [],
+        "content": "h = 0.0001\nn = 0\nwhile h < 8848.86:\n    h = h*2\n    n = n+1\nprint(n)",
+        "pic_url": [],
+        "level": 2
+    }
+]

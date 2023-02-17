@@ -1,0 +1,58 @@
+[
+    {
+        "type": "radio",
+        "question_id": 58520999,
+        "answer_ids": [
+            201987758
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 58521000,
+        "answer_ids": [
+            201987764
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 58521001,
+        "answer_ids": [
+            201987767
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "input",
+        "question_id": 58521002,
+        "answer_ids": [],
+        "content": "float(input('请输入课桌的价格'))",
+        "level": 2
+    },
+    {
+        "type": "input",
+        "question_id": 58521003,
+        "answer_ids": [],
+        "content": "200",
+        "level": 2
+    },
+    {
+        "type": "input",
+        "question_id": 58521004,
+        "answer_ids": [],
+        "content": "0.8",
+        "level": 2
+    },
+    {
+        "type": "textarea",
+        "question_id": 58521005,
+        "answer_ids": [],
+        "content": "if x <= 3:\n    y = 10\nelif x <= 10:\n    y = 10 + 1.8*(x-3)\nelse:\n    y = 22.6 + 2.4*(x-10)",
+        "pic_url": [],
+        "level": 2
+    }
+]

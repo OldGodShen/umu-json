@@ -1,0 +1,47 @@
+[
+    {
+        "type": "radio",
+        "question_id": 69521938,
+        "answer_ids": [
+            245523682
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 69521939,
+        "answer_ids": [
+            245523684
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 69521940,
+        "answer_ids": [
+            245523689
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 69521941,
+        "answer_ids": [
+            245523694
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 69521942,
+        "answer_ids": [
+            245523696
+        ],
+        "content": "",
+        "level": 2
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "type": "checkbox",
+        "question_id": 61373475,
+        "answer_ids": [
+            214428590,
+            214428591,
+            214428592
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 61373476,
+        "answer_ids": [
+            214428594
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "checkbox",
+        "question_id": 61373477,
+        "answer_ids": [
+            214428599,
+            214428600
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 61373478,
+        "answer_ids": [
+            214428601
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 61373479,
+        "answer_ids": [
+            214428604
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 61373480,
+        "answer_ids": [
+            214428610
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 61373481,
+        "answer_ids": [
+            214428611
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 61373482,
+        "answer_ids": [
+            214428613
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "radio",
+        "question_id": 61373483,
+        "answer_ids": [
+            214428615
+        ],
+        "content": "",
+        "level": 2
+    },
+    {
+        "type": "checkbox",
+        "question_id": 61373484,
+        "answer_ids": [
+            214428618,
+            214428619,
+            214428620
+        ],
+        "content": "",
+        "level": 2
+    }
+]
