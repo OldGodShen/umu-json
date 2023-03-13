@@ -6,4 +6,6 @@
 
     项目地址: https://console-docs.apipost.cn/preview/53d1280fb6e7773e/e4d6efc01f0fa65b
 
-## 有能力的帮我看看怎么写一键脚本(~~累死我了~~)
+## ~~有能力的帮我看看怎么写一键脚本~~
+# 已经肝出来了 
+    项目地址：https://github.com/OldGodShen/umu-py
